@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://amrendra-chaudhry-21.github.io/csb-pepew5/static/css/main.81cbccda.chunk.css",
+    "main.js": "https://amrendra-chaudhry-21.github.io/csb-pepew5/static/js/main.c7072a4a.chunk.js",
+    "main.js.map": "https://amrendra-chaudhry-21.github.io/csb-pepew5/static/js/main.c7072a4a.chunk.js.map",
+    "runtime-main.js": "https://amrendra-chaudhry-21.github.io/csb-pepew5/static/js/runtime-main.392fad3d.js",
+    "runtime-main.js.map": "https://amrendra-chaudhry-21.github.io/csb-pepew5/static/js/runtime-main.392fad3d.js.map",
+    "static/js/2.59865934.chunk.js": "https://amrendra-chaudhry-21.github.io/csb-pepew5/static/js/2.59865934.chunk.js",
+    "static/js/2.59865934.chunk.js.map": "https://amrendra-chaudhry-21.github.io/csb-pepew5/static/js/2.59865934.chunk.js.map",
+    "index.html": "https://amrendra-chaudhry-21.github.io/csb-pepew5/index.html",
+    "static/css/main.81cbccda.chunk.css.map": "https://amrendra-chaudhry-21.github.io/csb-pepew5/static/css/main.81cbccda.chunk.css.map",
+    "static/js/2.59865934.chunk.js.LICENSE.txt": "https://amrendra-chaudhry-21.github.io/csb-pepew5/static/js/2.59865934.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.392fad3d.js",
+    "static/js/2.59865934.chunk.js",
+    "static/css/main.81cbccda.chunk.css",
+    "static/js/main.c7072a4a.chunk.js"
+  ]
+}
